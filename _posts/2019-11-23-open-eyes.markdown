@@ -2,7 +2,7 @@
 layout: post
 title:  Open Eyes
 date:   2019-11-23 16:04:55 +0300
-image:  imageopenyoureyes2.png
+image:  openeyes2.png
 tags:   Eyes
 ---
 
