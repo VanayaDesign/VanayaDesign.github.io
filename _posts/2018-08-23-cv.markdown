@@ -1,0 +1,10 @@
+---
+layout: post
+title:  My resume
+date:   2018-08-23 16:03:50 +0300
+image:  cvvanya.jpg
+tags:   Resume
+---
+My first CV.
+
+![]({{site.baseurl}}/img/cvvanya.jpg)
