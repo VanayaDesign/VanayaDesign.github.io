@@ -7,4 +7,4 @@ tags:   Trip
 ---
 Coming Soon For A Yachting Company.
 
-<iframe src="https://www.youtube.com/embed/KDnJIxsbQlo&list=PLYjxb_4MvCnzHPY8Q8NN-z4KWWgVLdDe9&index=4" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/KDnJIxsbQlo" frameborder="0" allowfullscreen></iframe>
